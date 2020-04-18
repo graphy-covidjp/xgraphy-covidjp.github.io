@@ -10,6 +10,8 @@
 [![minutephys-c19-raw](svg/minutephys-c19-raw.svg)](svg/minutephys-c19-raw.svg)
 [![minutephys-deaths-c194](svg/minutephys-deaths-c194.svg)](svg/minutephys-deaths-c194.svg)
 [![minutephys-deaths-c19](svg/minutephys-deaths-c19.svg)](svg/minutephys-deaths-c19.svg)
+[![prefs-minphys-perc](svg/prefs-minphys-perc.svg)](svg/prefs-minphys-perc.svg)
+[![prefs-minphys-raw](svg/prefs-minphys-raw.svg)](svg/prefs-minphys-raw.svg)
 [![r-c194-days](svg/r-c194-days.svg)](svg/r-c194-days.svg)
 [![r-c194-deaths](svg/r-c194-deaths.svg)](svg/r-c194-deaths.svg)
 [![r-c194-percConf](svg/r-c194-percConf.svg)](svg/r-c194-percConf.svg)
