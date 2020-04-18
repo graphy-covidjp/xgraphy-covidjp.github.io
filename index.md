@@ -1,4 +1,3 @@
-[![age-ridges-tok](svg/age-ridges-tok.svg)](svg/age-ridges-tok.svg)
 [![comps.clin.JP](svg/comps.clin.JP.svg)](svg/comps.clin.JP.svg)
 [![comps.clog.JP](svg/comps.clog.JP.svg)](svg/comps.clog.JP.svg)
 [![comps.wlin.JP](svg/comps.wlin.JP.svg)](svg/comps.wlin.JP.svg)
@@ -21,3 +20,4 @@
 [![tests-jp-daily-res](svg/tests-jp-daily-res.svg)](svg/tests-jp-daily-res.svg)
 [![tests-tok-daily-posrate](svg/tests-tok-daily-posrate.svg)](svg/tests-tok-daily-posrate.svg)
 [![tests-tok-daily-res](svg/tests-tok-daily-res.svg)](svg/tests-tok-daily-res.svg)
+[![tok-age-ridges](svg/tok-age-ridges.svg)](svg/tok-age-ridges.svg)
