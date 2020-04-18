@@ -726,6 +726,6 @@
 <line x1='1010.40' y1='405.40' x2='1013.85' y2='405.40' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cpMC4wMHwxMTUyLjAwfDY0OC4wMHwwLjAw)' />
 <line x1='1010.40' y1='386.18' x2='1013.85' y2='386.18' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cpMC4wMHwxMTUyLjAwfDY0OC4wMHwwLjAw)' />
 <line x1='1010.40' y1='366.97' x2='1013.85' y2='366.97' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cpMC4wMHwxMTUyLjAwfDY0OC4wMHwwLjAw)' />
-<g clip-path='url(#cpMC4wMHwxMTUyLjAwfDY0OC4wMHwwLjAw)'><text x='28.10' y='30.10' style='font-size: 11.00px; font-family: Liberation Sans;' textLength='223.79px' lengthAdjust='spacingAndGlyphs'>color indicates change in R over the last week</text></g>
+<g clip-path='url(#cpMC4wMHwxMTUyLjAwfDY0OC4wMHwwLjAw)'><text x='28.10' y='30.10' style='font-size: 11.00px; font-family: Liberation Sans;' textLength='420.21px' lengthAdjust='spacingAndGlyphs'>line color indicates change in R over the last week. Country color indicates HALE@60.</text></g>
 <g clip-path='url(#cpMC4wMHwxMTUyLjAwfDY0OC4wMHwwLjAw)'><text x='28.10' y='14.56' style='font-size: 13.20px; font-family: Liberation Sans;' textLength='125.45px' lengthAdjust='spacingAndGlyphs'>observed R over time</text></g>
 </svg>
