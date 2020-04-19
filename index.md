@@ -13,6 +13,7 @@
 [![prefs-minphys-perc](svg/prefs-minphys-perc.svg)](svg/prefs-minphys-perc.svg)
 [![prefs-minphys-raw](svg/prefs-minphys-raw.svg)](svg/prefs-minphys-raw.svg)
 [![prefs-r-dates](svg/prefs-r-dates.svg)](svg/prefs-r-dates.svg)
+[![prefs-r-last](svg/prefs-r-last.svg)](svg/prefs-r-last.svg)
 [![r-c194-days](svg/r-c194-days.svg)](svg/r-c194-days.svg)
 [![r-c194-deaths](svg/r-c194-deaths.svg)](svg/r-c194-deaths.svg)
 [![r-c194-last-col-cfr](svg/r-c194-last-col-cfr.svg)](svg/r-c194-last-col-cfr.svg)
