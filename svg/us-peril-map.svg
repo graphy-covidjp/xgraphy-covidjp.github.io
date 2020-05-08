@@ -100,7 +100,7 @@
     <rect x='0.00' y='0.00' width='864.00' height='486.00' />
   </clipPath>
 </defs>
-<rect x='136.39' y='358.82' width='75.00' height='108.53' style='stroke-width: 0.87; stroke: none; fill: #FFFFFF;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
+<rect x='136.39' y='358.82' width='79.01' height='108.53' style='stroke-width: 0.87; stroke: none; fill: #FFFFFF;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><image width='17.28' height='86.40' x='140.88' y='376.47' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAABXCAYAAAAJWxWIAAAABmJLR0QA/wD/AP+gvaeTAAABaklEQVRYha2Yy3XcQBADC71IxOE4EiXsQHyUlmTDB8kRDBhAvQJ6PiT19+tXOHyU/J5TyP/HbIEisK6CVEqgsB3QzOC5C0YZzFvHoJ+yz0FplW2pY8S2ohFMw0ivjtGEllGpI9LqiME0dv+0jPLCKRhJ4NyvY9AKvLfPjRac59zoaRkx4K2ckOqUTbZjtAzehhHgFIykLRlpWkbC27iyk040kc74QR3QKPipHCOtaCO8hWNkVvgpgFbbAam1aUNK0aAzfgF+nsKmpVQ2mU40AD+NW4TSggzTMRpK41/Vxj/4roDogCbqgHZT6kjC9zZeIoLvp/G9NvjeAkilqaHtGBGXFmSCrwIoQ6nsLRkJ4auwjjataCpFQ+Dr+MfYzwl5VX5pBd8UlABfBdAgfBeihbQ6Er50Dvq+RQqgZVvRKEVL8LtWdgE01fF/FTpiwJ8Vo8GflQW5HaMQ/Nb57le+3yMrj4GPU8g18+cfx7/ogWldysIAAAAASUVORK5CYII='/></g>
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='162.64' y='455.72' style='font-size: 7.20px; font-family: Liberation Sans;' textLength='6.40px' lengthAdjust='spacingAndGlyphs'>-4</text></g>
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='162.64' y='441.65' style='font-size: 7.20px; font-family: Liberation Sans;' textLength='6.40px' lengthAdjust='spacingAndGlyphs'>-3</text></g>
@@ -108,7 +108,7 @@
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='162.64' y='413.50' style='font-size: 7.20px; font-family: Liberation Sans;' textLength='6.40px' lengthAdjust='spacingAndGlyphs'>-1</text></g>
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='162.64' y='399.42' style='font-size: 7.20px; font-family: Liberation Sans;' textLength='4.00px' lengthAdjust='spacingAndGlyphs'>0</text></g>
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='162.64' y='385.35' style='font-size: 7.20px; font-family: Liberation Sans;' textLength='4.00px' lengthAdjust='spacingAndGlyphs'>1</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='140.88' y='370.74' style='font-size: 9.00px; font-family: Liberation Sans;' textLength='66.04px' lengthAdjust='spacingAndGlyphs'>map_df[, values]</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='140.88' y='370.74' style='font-size: 9.00px; font-family: Liberation Sans;' textLength='70.04px' lengthAdjust='spacingAndGlyphs'>testing peril index</text></g>
 <line x1='140.88' y1='453.24' x2='144.33' y2='453.24' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <line x1='140.88' y1='439.17' x2='144.33' y2='439.17' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <line x1='140.88' y1='425.09' x2='144.33' y2='425.09' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
@@ -132,6 +132,6 @@
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='250.43' y='41.76' style='font-size: 9.00px; font-family: Liberation Sans;' textLength='54.03px' lengthAdjust='spacingAndGlyphs'>tested growth</text></g>
 <polyline points='229.93,31.44 324.97,31.44 ' style='stroke-width: 0.75;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='324.97' y='34.03' style='font-size: 9.00px; font-family: Liberation Sans;' textLength='3.00px' lengthAdjust='spacingAndGlyphs'>)</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='136.39' y='11.91' style='font-size: 10.80px; font-family: Liberation Sans;' textLength='189.54px' lengthAdjust='spacingAndGlyphs'>US states/territories "testing peril index"</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='649.79' y='479.03' style='font-size: 7.20px; font-family: Liberation Sans;' textLength='80.06px' lengthAdjust='spacingAndGlyphs'>last updated: 2020-05-07</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='136.39' y='11.91' style='font-size: 10.80px; font-family: Liberation Sans;' textLength='141.53px' lengthAdjust='spacingAndGlyphs'>US states "testing peril index"</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='558.54' y='479.03' style='font-size: 7.20px; font-family: Liberation Sans;' textLength='171.31px' lengthAdjust='spacingAndGlyphs'>data source: covid-tracking-data updated  2020-05-07</text></g>
 </svg>
