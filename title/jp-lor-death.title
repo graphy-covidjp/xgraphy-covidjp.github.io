@@ -1,0 +1,3 @@
+paste("Log", phantom()[{
+    paste("2")
+}], " odds ratio of death vs survival ", "(", "given confirmation", ")", " by age/sex") : error bars represent 95% CI
