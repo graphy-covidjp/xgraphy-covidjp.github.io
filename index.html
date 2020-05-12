@@ -152,6 +152,24 @@
 		<li>Odds ratio of death vs survival (given confirmation) by age/sex : error bars represent 95% CI
 <a href="svg/jp-or-death.svg"><br><img src="png/jp-or-death.png"></a></li>
 		
+		<li>Japan cases sliced by whether symptomatic date is known : sliced by connection to known cases
+<a href="svg/jp-symp-data-con.svg"><br><img src="png/jp-symp-data-con.png"></a></li>
+		
+		<li>Japan cases sliced by whether symptomatic date is known
+<a href="svg/jp-symp-data-fill.svg"><br><img src="png/jp-symp-data-fill.png"></a></li>
+		
+		<li>Japan cases sliced by whether symptomatic date is known
+<a href="svg/jp-symp-data.svg"><br><img src="png/jp-symp-data.png"></a></li>
+		
+		<li>Japan days from appearance of symptoms (81.4% known) to announcement over time : by known connection
+<a href="svg/jp-symp-delay-con.svg"><br><img src="png/jp-symp-delay-con.png"></a></li>
+		
+		<li>Japan days from appearance of symptoms (81.4% known) to announcement over time : by prefecture (sorted by population)
+<a href="svg/jp-symp-delay-pref.svg"><br><img src="png/jp-symp-delay-pref.png"></a></li>
+		
+		<li>Japan days from appearance of symptoms (81.4% known) to announcement over time
+<a href="svg/jp-symp-delay.svg"><br><img src="png/jp-symp-delay.png"></a></li>
+		
 		<li>Weekly tests by type of institution : 国内における新型コロナウイルスに係るPCR検査の実施状況(結果判明週ベース)
 <a href="svg/jp-testing-sites-col-weekly.svg"><br><img src="png/jp-testing-sites-col-weekly.png"></a></li>
 		
@@ -182,8 +200,35 @@
 		<li>Japan todoufuken by &#34;testing peril index&#34;
 <a href="svg/prefs-peril-map.svg"><br><img src="png/prefs-peril-map.png"></a></li>
 		
+		<li>confirmations per test (not per person tested) : shaded area represents 95% CI
+<a href="svg/prefs-posr.svg"><br><img src="png/prefs-posr.png"></a></li>
+		
+		<li>observed R (2 week window) per todoufuken : shaded area represents 95% CI
+<a href="svg/prefs-r-dates.svg"><br><img src="png/prefs-r-dates.png"></a></li>
+		
+		<li>latest observed R per todoufuken : error bars represent 95% CI
+<a href="svg/prefs-r-last.svg"><br><img src="png/prefs-r-last.png"></a></li>
+		
+		<li>Japan latest observed R by todoufuken : from the last 2 week window
+<a href="svg/prefs-r-map.svg"><br><img src="png/prefs-r-map.png"></a></li>
+		
 		<li>Weekly testing and confirmation sliced by todoufuken : ordered by population
 <a href="svg/prefs-tested-conf.svg"><br><img src="png/prefs-tested-conf.png"></a></li>
+		
+		<li>testing growth R (2 week window) per todoufuken : Dates prior to first confirmed case omitted.
+<a href="svg/prefs-testr-dates.svg"><br><img src="png/prefs-testr-dates.png"></a></li>
+		
+		<li>testing growth R vs observed COVID-19 R : linear scales
+<a href="svg/prefs-testr-obsr-lin.svg"><br><img src="png/prefs-testr-obsr-lin.png"></a></li>
+		
+		<li>testing growth R vs observed COVID-19 R : log scales
+<a href="svg/prefs-testr-obsr-log.svg"><br><img src="png/prefs-testr-obsr-log.png"></a></li>
+		
+		<li>Weekly tests run per population by todoufuken : todoufuken ordered by population density
+<a href="svg/prefs-testw-fac-per.svg"><br><img src="png/prefs-testw-fac-per.png"></a></li>
+		
+		<li>Weekly tests run by todoufuken : todoufuken ordered by population density
+<a href="svg/prefs-testw-raw.svg"><br><img src="png/prefs-testw-raw.png"></a></li>
 		
 		<li>Japan todoufuken &#34;testing peril index&#34; (growth of confirmations to growth of testing &amp; positivity slack) over time : todoufuken sorted by population
 <a href="svg/prefs-wow-conf-to-wow-tested.svg"><br><img src="png/prefs-wow-conf-to-wow-tested.png"></a></li>
@@ -268,7 +313,7 @@
 				<li><a href="https://twitter.com/fergal_whatever">@fergal_whatever</a>'s dilligently collected table of <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html">MHLW statistics</a>, and my own collection of data from <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html">MHLW</a>.
 				<li><a href="https://github.com/CSSEGISandData/COVID-19">JHU CSSE COVID-19 Data Repository</a>
 				<li><a href="https://apps.who.int/gho/data/node.main">WHO Global Health Observatory</a> data repository for country stats.
-				
+				<li><a href="https://github.com/swsoyee/2019-ncov-japan.git">@swsoyee's github repository</a> for <a href="https://covid-2019.live/">https://covid-2019.live/</a> using <a href="https://twitter.com/kenmo_economics">@kenmo_economics</a>'s amazingly curated data from <a href="https://datastudio.google.com/u/0/reporting/c4e0fe88-f72e-464e-a3b8-5e4e591c238d">新型コロナ 県別・時系列グラフ</a>. This is the only machine-readable source of per-prefecture testing count data that I know of. (Note it's <i>per test</i> not <i>per person</i> (which is kind of confusing for positivity counting)).
 				<li><a href="https://en.wikipedia.org/wiki/List_of_Japanese_prefectures_by_population">Wikipedia</a>
 				<li>The wonderful contributors to <a href="https://www.r-project.org/">R</a> at <a href="https://www.tidyverse.org/">Tidyverse</a> and <a href="cran.r-project.org/">CRAN</a>.
 				<li><a href="https://icons8.com/icon/qzXMBMBHWRAg/coronavirus">Coronavirus icon by Icons8</a>
