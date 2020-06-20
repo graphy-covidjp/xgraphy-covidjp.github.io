@@ -12,13 +12,13 @@
   ]]></style>
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
-<rect x='0.00' y='0.00' width='864.00' height='486.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+<rect x='0.00' y='0.00' width='864.00' height='486.00' style='stroke-width: 1.07; stroke: #121212; fill: #121212;' />
 <defs>
   <clipPath id='cpNDcuNjh8NjU5Ljc0fDQ0MC4yMnwzOC4wNw=='>
     <rect x='47.68' y='38.07' width='612.06' height='402.15' />
   </clipPath>
 </defs>
-<rect x='47.68' y='38.07' width='612.06' height='402.15' style='stroke-width: 1.07; stroke: none; fill: #7F7F7F;' clip-path='url(#cpNDcuNjh8NjU5Ljc0fDQ0MC4yMnwzOC4wNw==)' />
+<rect x='47.68' y='38.07' width='612.06' height='402.15' style='stroke-width: 1.07; stroke: none; fill: #000000;' clip-path='url(#cpNDcuNjh8NjU5Ljc0fDQ0MC4yMnwzOC4wNw==)' />
 <polyline points='47.68,376.67 659.74,376.67 ' style='stroke-width: 0.27; stroke: #6B6B6B; stroke-linecap: butt;' clip-path='url(#cpNDcuNjh8NjU5Ljc0fDQ0MC4yMnwzOC4wNw==)' />
 <polyline points='47.68,286.12 659.74,286.12 ' style='stroke-width: 0.27; stroke: #6B6B6B; stroke-linecap: butt;' clip-path='url(#cpNDcuNjh8NjU5Ljc0fDQ0MC4yMnwzOC4wNw==)' />
 <polyline points='47.68,195.57 659.74,195.57 ' style='stroke-width: 0.27; stroke: #6B6B6B; stroke-linecap: butt;' clip-path='url(#cpNDcuNjh8NjU5Ljc0fDQ0MC4yMnwzOC4wNw==)' />
@@ -786,11 +786,11 @@
     <rect x='0.00' y='0.00' width='864.00' height='486.00' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='37.85' y='424.97' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='23.17' y='334.42' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2500</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='23.17' y='243.87' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>5000</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='23.17' y='153.33' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>7500</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='18.28' y='62.78' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='24.47px' lengthAdjust='spacingAndGlyphs'>10000</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='37.85' y='424.97' style='font-size: 8.80px; fill: #BCBCBC; font-family: Liberation Sans;' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='23.17' y='334.42' style='font-size: 8.80px; fill: #BCBCBC; font-family: Liberation Sans;' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2500</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='23.17' y='243.87' style='font-size: 8.80px; fill: #BCBCBC; font-family: Liberation Sans;' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>5000</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='23.17' y='153.33' style='font-size: 8.80px; fill: #BCBCBC; font-family: Liberation Sans;' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>7500</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='18.28' y='62.78' style='font-size: 8.80px; fill: #BCBCBC; font-family: Liberation Sans;' textLength='24.47px' lengthAdjust='spacingAndGlyphs'>10000</text></g>
 <polyline points='44.94,421.94 47.68,421.94 ' style='stroke-width: 0.53; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <polyline points='44.94,331.40 47.68,331.40 ' style='stroke-width: 0.53; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <polyline points='44.94,240.85 47.68,240.85 ' style='stroke-width: 0.53; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
@@ -800,14 +800,14 @@
 <polyline points='275.47,442.96 275.47,440.22 ' style='stroke-width: 0.53; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <polyline points='413.54,442.96 413.54,440.22 ' style='stroke-width: 0.53; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <polyline points='556.21,442.96 556.21,440.22 ' style='stroke-width: 0.53; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='125.22' y='451.21' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='15.16px' lengthAdjust='spacingAndGlyphs'>Mar</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='268.62' y='451.21' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='13.69px' lengthAdjust='spacingAndGlyphs'>Apr</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='405.23' y='451.21' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='16.62px' lengthAdjust='spacingAndGlyphs'>May</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='549.12' y='451.21' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='14.19px' lengthAdjust='spacingAndGlyphs'>Jun</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='343.01' y='464.01' style='font-size: 11.00px; font-family: Liberation Sans;' textLength='21.41px' lengthAdjust='spacingAndGlyphs'>date</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text transform='translate(13.05,311.58) rotate(-90)' style='font-size: 11.00px; font-family: Liberation Sans;' textLength='144.86px' lengthAdjust='spacingAndGlyphs'>daily test results (1日の結果判明)</text></g>
-<rect x='670.70' y='107.90' width='187.80' height='134.79' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='676.18' y='122.20' style='font-size: 11.00px; font-family: Liberation Sans;' textLength='37.91px' lengthAdjust='spacingAndGlyphs'>sitetype</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='125.22' y='451.21' style='font-size: 8.80px; fill: #BCBCBC; font-family: Liberation Sans;' textLength='15.16px' lengthAdjust='spacingAndGlyphs'>Mar</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='268.62' y='451.21' style='font-size: 8.80px; fill: #BCBCBC; font-family: Liberation Sans;' textLength='13.69px' lengthAdjust='spacingAndGlyphs'>Apr</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='405.23' y='451.21' style='font-size: 8.80px; fill: #BCBCBC; font-family: Liberation Sans;' textLength='16.62px' lengthAdjust='spacingAndGlyphs'>May</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='549.12' y='451.21' style='font-size: 8.80px; fill: #BCBCBC; font-family: Liberation Sans;' textLength='14.19px' lengthAdjust='spacingAndGlyphs'>Jun</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='343.01' y='464.01' style='font-size: 11.00px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='21.41px' lengthAdjust='spacingAndGlyphs'>date</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text transform='translate(13.05,311.58) rotate(-90)' style='font-size: 11.00px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='144.86px' lengthAdjust='spacingAndGlyphs'>daily test results (1日の結果判明)</text></g>
+<rect x='670.70' y='107.90' width='187.80' height='134.79' style='stroke-width: 1.07; stroke: none; fill: #212121;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='676.18' y='122.20' style='font-size: 11.00px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='37.91px' lengthAdjust='spacingAndGlyphs'>sitetype</text></g>
 <rect x='676.18' y='128.92' width='17.28' height='18.05' style='stroke-width: 1.07; stroke: none; fill: #7F7F7F;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <rect x='676.89' y='129.63' width='15.86' height='16.63' style='stroke-width: 1.07; stroke-linejoin: miter; fill: #F8766D;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <rect x='676.18' y='146.97' width='17.28' height='18.05' style='stroke-width: 1.07; stroke: none; fill: #7F7F7F;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
@@ -820,20 +820,20 @@
 <rect x='676.89' y='201.82' width='15.86' height='16.63' style='stroke-width: 1.07; stroke-linejoin: miter; fill: #619CFF;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <rect x='676.18' y='219.16' width='17.28' height='18.05' style='stroke-width: 1.07; stroke: none; fill: #7F7F7F;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <rect x='676.89' y='219.87' width='15.86' height='16.63' style='stroke-width: 1.07; stroke-linejoin: miter; fill: #F564E3;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='136.22' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='26.40px' lengthAdjust='spacingAndGlyphs'>医療機関</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='145.72' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='69.94px' lengthAdjust='spacingAndGlyphs'>Medical institution</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='154.27' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='52.80px' lengthAdjust='spacingAndGlyphs'>国立感染症研究所</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='163.77' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='154.08px' lengthAdjust='spacingAndGlyphs'>National Institute of Infectious Diseases</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='172.32' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='72.60px' lengthAdjust='spacingAndGlyphs'>地方衛生研究所･保健所</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='181.82' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='150.66px' lengthAdjust='spacingAndGlyphs'>Local Health Research / Health Center</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='190.36' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='19.80px' lengthAdjust='spacingAndGlyphs'>大学等</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='199.87' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='52.81px' lengthAdjust='spacingAndGlyphs'>University etc</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='208.41' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='19.80px' lengthAdjust='spacingAndGlyphs'>検疫所</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='217.92' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='71.91px' lengthAdjust='spacingAndGlyphs'>Quarantine station</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='226.46' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='39.60px' lengthAdjust='spacingAndGlyphs'>民間検査会社</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='235.97' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='93.91px' lengthAdjust='spacingAndGlyphs'>Private testing company</text></g>
-<rect x='670.70' y='253.65' width='187.82' height='116.74' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='676.18' y='267.94' style='font-size: 11.00px; font-family: Liberation Sans;' textLength='26.91px' lengthAdjust='spacingAndGlyphs'>dates</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='136.22' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='26.40px' lengthAdjust='spacingAndGlyphs'>医療機関</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='145.72' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='69.94px' lengthAdjust='spacingAndGlyphs'>Medical institution</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='154.27' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='52.80px' lengthAdjust='spacingAndGlyphs'>国立感染症研究所</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='163.77' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='154.08px' lengthAdjust='spacingAndGlyphs'>National Institute of Infectious Diseases</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='172.32' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='72.60px' lengthAdjust='spacingAndGlyphs'>地方衛生研究所･保健所</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='181.82' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='150.66px' lengthAdjust='spacingAndGlyphs'>Local Health Research / Health Center</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='190.36' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='19.80px' lengthAdjust='spacingAndGlyphs'>大学等</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='199.87' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='52.81px' lengthAdjust='spacingAndGlyphs'>University etc</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='208.41' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='19.80px' lengthAdjust='spacingAndGlyphs'>検疫所</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='217.92' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='71.91px' lengthAdjust='spacingAndGlyphs'>Quarantine station</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='226.46' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='39.60px' lengthAdjust='spacingAndGlyphs'>民間検査会社</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='235.97' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='93.91px' lengthAdjust='spacingAndGlyphs'>Private testing company</text></g>
+<rect x='670.70' y='253.65' width='187.82' height='116.74' style='stroke-width: 1.07; stroke: none; fill: #212121;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='676.18' y='267.94' style='font-size: 11.00px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='26.91px' lengthAdjust='spacingAndGlyphs'>dates</text></g>
 <rect x='676.18' y='274.67' width='17.28' height='18.05' style='stroke-width: 1.07; stroke: none; fill: #7F7F7F;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <line x1='684.82' y1='292.71' x2='684.82' y2='274.67' style='stroke-width: 1.07; stroke: #FF0000; stroke-opacity: 0.60; stroke-dasharray: 1.42,4.27; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <rect x='676.18' y='292.71' width='17.28' height='18.05' style='stroke-width: 1.07; stroke: none; fill: #7F7F7F;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
@@ -844,17 +844,17 @@
 <line x1='684.82' y1='346.86' x2='684.82' y2='328.81' style='stroke-width: 1.07; stroke: #FF0000; stroke-opacity: 0.60; stroke-dasharray: 1.42,4.27; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <rect x='676.18' y='346.86' width='17.28' height='18.05' style='stroke-width: 1.07; stroke: none; fill: #7F7F7F;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
 <line x1='684.82' y1='364.91' x2='684.82' y2='346.86' style='stroke-width: 1.07; stroke: #FF0000; stroke-opacity: 0.60; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)' />
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='281.97' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='94.39px' lengthAdjust='spacingAndGlyphs'>Olympics delay finalized</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='291.47' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='45.01px' lengthAdjust='spacingAndGlyphs'>2020-03-24</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='300.01' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='110.06px' lengthAdjust='spacingAndGlyphs'>Local emergencies declared</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='309.52' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='45.01px' lengthAdjust='spacingAndGlyphs'>2020-04-07</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='318.06' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='114.46px' lengthAdjust='spacingAndGlyphs'>National emergency declared</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='327.57' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='45.01px' lengthAdjust='spacingAndGlyphs'>2020-04-16</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='336.11' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='150.21px' lengthAdjust='spacingAndGlyphs'>abandoned end of national emergency</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='345.62' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='45.01px' lengthAdjust='spacingAndGlyphs'>2020-05-06</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='354.16' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='154.10px' lengthAdjust='spacingAndGlyphs'>rescheduled end of national emergency</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='363.66' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='45.01px' lengthAdjust='spacingAndGlyphs'>2020-05-25</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='47.68' y='30.10' style='font-size: 11.00px; font-family: Liberation Sans;' textLength='302.80px' lengthAdjust='spacingAndGlyphs'>国内における新型コロナウイルスに係るPCR検査の実施状況(結果判明日ベース)</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='47.68' y='14.56' style='font-size: 13.20px; font-family: Liberation Sans;' textLength='152.61px' lengthAdjust='spacingAndGlyphs'>Tests by type of institution</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='352.54' y='478.03' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='307.20px' lengthAdjust='spacingAndGlyphs'>data source: MHLW PDFs published 2020-06-19 with data through 2020-06-17</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='281.97' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='94.39px' lengthAdjust='spacingAndGlyphs'>Olympics delay finalized</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='291.47' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='45.01px' lengthAdjust='spacingAndGlyphs'>2020-03-24</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='300.01' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='110.06px' lengthAdjust='spacingAndGlyphs'>Local emergencies declared</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='309.52' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='45.01px' lengthAdjust='spacingAndGlyphs'>2020-04-07</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='318.06' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='114.46px' lengthAdjust='spacingAndGlyphs'>National emergency declared</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='327.57' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='45.01px' lengthAdjust='spacingAndGlyphs'>2020-04-16</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='336.11' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='150.21px' lengthAdjust='spacingAndGlyphs'>abandoned end of national emergency</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='345.62' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='45.01px' lengthAdjust='spacingAndGlyphs'>2020-05-06</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='354.16' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='154.10px' lengthAdjust='spacingAndGlyphs'>rescheduled end of national emergency</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='698.94' y='363.66' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='45.01px' lengthAdjust='spacingAndGlyphs'>2020-05-25</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='47.68' y='30.10' style='font-size: 11.00px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='302.80px' lengthAdjust='spacingAndGlyphs'>国内における新型コロナウイルスに係るPCR検査の実施状況(結果判明日ベース)</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='47.68' y='14.56' style='font-size: 13.20px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='152.61px' lengthAdjust='spacingAndGlyphs'>Tests by type of institution</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='352.54' y='478.03' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='307.20px' lengthAdjust='spacingAndGlyphs'>data source: MHLW PDFs published 2020-06-19 with data through 2020-06-17</text></g>
 </svg>
