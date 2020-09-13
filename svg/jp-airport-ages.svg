@@ -52,8 +52,8 @@
 <rect x='299.05' y='417.46' width='74.62' height='4.49' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #E76BF3;' clip-path='url(#cpMzcuODl8ODAwLjY0fDQ0MC4yMnwzOC4wNw==)' />
 <rect x='299.05' y='401.76' width='74.62' height='15.70' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00B0F6;' clip-path='url(#cpMzcuODl8ODAwLjY0fDQ0MC4yMnwzOC4wNw==)' />
 <rect x='299.05' y='368.11' width='74.62' height='33.64' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00BF7D;' clip-path='url(#cpMzcuODl8ODAwLjY0fDQ0MC4yMnwzOC4wNw==)' />
-<rect x='299.05' y='300.83' width='74.62' height='67.29' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #A3A500;' clip-path='url(#cpMzcuODl8ODAwLjY0fDQ0MC4yMnwzOC4wNw==)' />
-<rect x='299.05' y='143.82' width='74.62' height='157.00' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #F8766D;' clip-path='url(#cpMzcuODl8ODAwLjY0fDQ0MC4yMnwzOC4wNw==)' />
+<rect x='299.05' y='298.58' width='74.62' height='69.53' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #A3A500;' clip-path='url(#cpMzcuODl8ODAwLjY0fDQ0MC4yMnwzOC4wNw==)' />
+<rect x='299.05' y='139.34' width='74.62' height='159.25' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #F8766D;' clip-path='url(#cpMzcuODl8ODAwLjY0fDQ0MC4yMnwzOC4wNw==)' />
 <rect x='381.96' y='417.46' width='74.62' height='4.49' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #E76BF3;' clip-path='url(#cpMzcuODl8ODAwLjY0fDQ0MC4yMnwzOC4wNw==)' />
 <rect x='381.96' y='415.21' width='74.62' height='2.24' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00B0F6;' clip-path='url(#cpMzcuODl8ODAwLjY0fDQ0MC4yMnwzOC4wNw==)' />
 <rect x='381.96' y='392.79' width='74.62' height='22.43' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00BF7D;' clip-path='url(#cpMzcuODl8ODAwLjY0fDQ0MC4yMnwzOC4wNw==)' />
@@ -122,5 +122,5 @@
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='839.84' y='284.50' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>中部</text></g>
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='37.89' y='30.10' style='font-size: 11.00px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='111.89px' lengthAdjust='spacingAndGlyphs'>by age, color by airport</text></g>
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='37.89' y='14.56' style='font-size: 13.20px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='158.46px' lengthAdjust='spacingAndGlyphs'>cases confirmed at airports</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='631.89' y='478.03' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='168.76px' lengthAdjust='spacingAndGlyphs'>datasource: MHLW (published 2020-09-12)</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='631.89' y='478.03' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='168.76px' lengthAdjust='spacingAndGlyphs'>datasource: MHLW (published 2020-09-13)</text></g>
 </svg>
