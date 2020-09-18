@@ -179,8 +179,8 @@
 <rect x='724.52' y='305.62' width='3.35' height='116.33' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00BFC4;' clip-path='url(#cpMzMuMDB8NzY4Ljc1fDQ0MC4yMnwzOC4wNw==)' />
 <rect x='728.24' y='305.62' width='3.35' height='116.33' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00BFC4;' clip-path='url(#cpMzMuMDB8NzY4Ljc1fDQ0MC4yMnwzOC4wNw==)' />
 <rect x='728.24' y='289.00' width='3.35' height='16.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #F8766D;' clip-path='url(#cpMzMuMDB8NzY4Ljc1fDQ0MC4yMnwzOC4wNw==)' />
-<rect x='731.96' y='388.71' width='3.35' height='33.24' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00BFC4;' clip-path='url(#cpMzMuMDB8NzY4Ljc1fDQ0MC4yMnwzOC4wNw==)' />
-<rect x='731.96' y='372.09' width='3.35' height='16.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #F8766D;' clip-path='url(#cpMzMuMDB8NzY4Ljc1fDQ0MC4yMnwzOC4wNw==)' />
+<rect x='731.96' y='289.00' width='3.35' height='132.94' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00BFC4;' clip-path='url(#cpMzMuMDB8NzY4Ljc1fDQ0MC4yMnwzOC4wNw==)' />
+<rect x='731.96' y='272.38' width='3.35' height='16.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #F8766D;' clip-path='url(#cpMzMuMDB8NzY4Ljc1fDQ0MC4yMnwzOC4wNw==)' />
 <defs>
   <clipPath id='cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA='>
     <rect x='0.00' y='0.00' width='864.00' height='486.00' />
@@ -220,5 +220,5 @@
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='807.95' y='258.58' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='23.96px' lengthAdjust='spacingAndGlyphs'>TRUE</text></g>
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='33.00' y='30.10' style='font-size: 11.00px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='113.71px' lengthAdjust='spacingAndGlyphs'>sliced by asymptomatic</text></g>
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='33.00' y='14.56' style='font-size: 13.20px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='205.43px' lengthAdjust='spacingAndGlyphs'>confirmed cases at airports by date</text></g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='599.99' y='478.03' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='168.76px' lengthAdjust='spacingAndGlyphs'>datasource: MHLW (published 2020-09-17)</text></g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8NDg2LjAwfDAuMDA=)'><text x='599.99' y='478.03' style='font-size: 8.80px; fill: #FFFFFF; font-family: Liberation Sans;' textLength='168.76px' lengthAdjust='spacingAndGlyphs'>datasource: MHLW (published 2020-09-18)</text></g>
 </svg>
